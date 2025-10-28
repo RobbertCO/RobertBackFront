@@ -1,6 +1,6 @@
 ### Hola! 🤚🏼
 
-Actualmente curso un Grado Medio en Sistemas Microinformáticos y Redes, donde estoy adquiriendo conocimientos en instalación, mantenimiento y administración de sistemas informáticos. Me encuentro realizando las prácticas formativas, centradas en tareas de programación con HTML y CSS, lo que ha reforzado mi interés por el desarrollo web.
+Mi nombre es Roberto y actualmente estoy realizando un Grado Medio en Sistemas Microinformáticos y Redes, donde estoy adquiriendo conocimientos en instalación, mantenimiento y administración de sistemas informáticos. Me encuentro realizando las prácticas formativas, centradas en tareas de programación con HTML y CSS aunque más adelante utilizaremos más lenguajes y eso es lo que ha reforzado mi interés por el desarrollo web.
 
 Mi objetivo es continuar mi formación con el Grado Superior en Desarrollo de Aplicaciones Web (DAW), con el propósito de ampliar mis competencias en programación y orientar mi carrera profesional hacia el ámbito del desarrollo de software.
 
